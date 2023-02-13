@@ -3986,6 +3986,11 @@ expo-keep-awake@~11.0.1:
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-11.0.1.tgz#ee354465892a94040ffe09901b85b469e7d54fb3"
   integrity sha512-44ZjgLE4lnce2d40Pv8xsjMVc6R5GvgHOwZfkLYtGmgYG9TYrEJeEj5UfSeweXPL3pBFhXKfFU8xpGYMaHdP0A==
 
+expo-mds@^0.1.22:
+  version "0.1.22"
+  resolved "https://registry.yarnpkg.com/expo-mds/-/expo-mds-0.1.22.tgz#866dd3bb3990ffd20f7628d8d2f3df4e16913815"
+  integrity sha512-+x4tp1VkZqTOXGRp/hEUTAEGBL4HYS10e0j7x8yU45+Rs20alNZZZaYRTsCwfcUdp66dqS6XvX6r+g0SAd3XVQ==
+
 expo-modules-autolinking@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/expo-modules-autolinking/-/expo-modules-autolinking-1.0.2.tgz#f072f342ab797e43b16ddcdef251fcd4db851e1a"
